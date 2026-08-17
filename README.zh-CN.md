@@ -261,3 +261,9 @@ Destination Paper Collage Poster Skill — AMZhang
 **统一的是设计语言，不是城市模板。**
 
 </div>
+</div>
+帮作者充点Token（coffee）
+<p align="center">
+  <img src="./pay/AliPay.jpg" width="32%">
+  <img src="./pay/WechatPay.jpg" width="32%">
+</p>
