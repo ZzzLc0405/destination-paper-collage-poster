@@ -46,9 +46,6 @@ Instead of treating every place as a landmark swap inside the same template, the
 
 It then decides the **hero element, composition, title role, palette, foreground, background, supporting motifs, and density** for that destination.
 
-The goal is simple:
-
-> **The same designer should be recognizable. The same template should not.**
 
 ---
 
@@ -136,41 +133,15 @@ destination-paper-collage-poster/
 ├── COMMERCIAL-LICENSE.md
 └── examples/
     ├── README.md
-    ├── poster-01.jpg
-    ├── poster-02.jpg
-    ├── poster-03.jpg
-    ├── poster-04.jpg
-    ├── poster-05.jpg
-    └── poster-06.jpg
+    ├── poster-1.jpg
+    ├── poster-2.jpg
+    ├── poster-3.jpg
+    ├── poster-4.jpg
+    ├── poster-5.jpg
+    └── poster-6.jpg
 ```
 
 ---
-
-## Replacing the gallery images
-
-Choose six posters that best represent the range of the skill.
-
-Recommended selection criteria:
-
-- visibly different city structures
-- different title placements
-- different dominant palettes
-- different hero elements
-- no repeated composition skeleton
-- clear paper-collage craftsmanship
-
-Export them as JPG files and replace:
-
-```text
-examples/poster-01.jpg
-examples/poster-02.jpg
-examples/poster-03.jpg
-examples/poster-04.jpg
-examples/poster-05.jpg
-examples/poster-06.jpg
-```
-
-A vertical ratio close to **5:7** is recommended for visual consistency in the gallery.
 
 ---
 
