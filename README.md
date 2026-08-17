@@ -249,4 +249,8 @@ This project provides a reusable creative-generation system. Results will still 
 **Same visual language. Different city personality.**
 
 </div>
-Help the author top up some tokens：
+Help the author top up some tokens（coffee）
+<p align="center">
+  <img src="./pay/AliPay.jpg" width="32%">
+  <img src="./pay/WechatPay.jpg" width="32%">
+</p>
