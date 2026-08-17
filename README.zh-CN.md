@@ -200,7 +200,7 @@ Copyright © 2026 **AMZhang**. All rights reserved.
 推荐简短格式：
 
 ```text
-Destination Paper Collage Poster Skill — AMZhang
+Destination Paper Collage Poster Skill — AM.
 ```
 
 ---
