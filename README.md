@@ -189,7 +189,7 @@ If you publish work made with this skill for non-commercial purposes, please cre
 Suggested format:
 
 ```text
-Destination Paper Collage Poster Skill — AMZhang
+Destination Paper Collage Poster Skill — AM.
 ```
 
 ---
