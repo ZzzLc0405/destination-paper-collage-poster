@@ -19,14 +19,14 @@
 
 <table>
   <tr>
-    <td width="33.33%"><img src="examples/poster-01.png" alt="Poster 01"></td>
-    <td width="33.33%"><img src="examples/poster-02.png" alt="Poster 02"></td>
-    <td width="33.33%"><img src="examples/poster-03.png" alt="Poster 03"></td>
+    <td width="33.33%"><img src="examples/poster-1.png" alt="Poster 01"></td>
+    <td width="33.33%"><img src="examples/poster-2.png" alt="Poster 02"></td>
+    <td width="33.33%"><img src="examples/poster-3.png" alt="Poster 03"></td>
   </tr>
   <tr>
-    <td width="33.33%"><img src="examples/poster-04.png" alt="Poster 04"></td>
-    <td width="33.33%"><img src="examples/poster-05.png" alt="Poster 05"></td>
-    <td width="33.33%"><img src="examples/poster-06.png" alt="Poster 06"></td>
+    <td width="33.33%"><img src="examples/poster-4.png" alt="Poster 04"></td>
+    <td width="33.33%"><img src="examples/poster-5.png" alt="Poster 05"></td>
+    <td width="33.33%"><img src="examples/poster-6.png" alt="Poster 06"></td>
   </tr>
 </table>
 
