@@ -1,6 +1,6 @@
 # Custom License
 
-Copyright © 2026 Zzzllc0405. All rights reserved.
+Copyright © 2026 ZzzLc0405. All rights reserved.
 
 This repository, including `SKILL.md`, documentation, example assets, adaptations, and repository-specific creative system design, is protected by copyright.
 
