@@ -47,9 +47,6 @@
 
 然后再决定这个城市自己的 **Hero Element、构图、标题角色、配色、前景、背景、辅助元素和画面密度**。
 
-核心目标是：
-
-> **让人认得出是同一个设计师，但不能认得出是同一个模板。**
 
 ---
 
@@ -147,43 +144,16 @@ destination-paper-collage-poster/
 ├── COMMERCIAL-LICENSE.md
 └── examples/
     ├── README.md
-    ├── poster-01.jpg
-    ├── poster-02.jpg
-    ├── poster-03.jpg
-    ├── poster-04.jpg
-    ├── poster-05.jpg
-    └── poster-06.jpg
+    ├── poster-1.jpg
+    ├── poster-2.jpg
+    ├── poster-3.jpg
+    ├── poster-4.jpg
+    ├── poster-5.jpg
+    └── poster-6.jpg
 ```
 
 ---
 
-## 如何替换六张展示图
-
-建议挑选六张能够体现 Skill 泛化能力的作品。
-
-优先选择：
-
-- 城市空间结构差异明显
-- 标题位置明显不同
-- 主色明显不同
-- Hero Element 不同
-- 构图骨架不重复
-- 都能清楚体现纸雕拼贴质感
-
-将它们导出为 JPG，并替换：
-
-```text
-examples/poster-01.jpg
-examples/poster-02.jpg
-examples/poster-03.jpg
-examples/poster-04.jpg
-examples/poster-05.jpg
-examples/poster-06.jpg
-```
-
-为了让 GitHub 六图展示更统一，建议保持接近 **5:7 的竖版比例**。
-
----
 
 ## 版权与授权
 
