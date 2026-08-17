@@ -14,8 +14,6 @@ Create travel posters that share one recognizable visual language **without repe
 
 ## Gallery
 
-> Replace the six placeholder images in `examples/` with your own selected posters.  
-> Keep the filenames unchanged and this 3 × 2 gallery will update automatically.
 
 <table>
   <tr>
